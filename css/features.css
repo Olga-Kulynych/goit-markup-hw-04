@@ -1,0 +1,37 @@
+.features {
+  padding: 120px 0;
+}
+.features-title {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  color: #2e2f42;
+  letter-spacing: 0.02em;
+}
+
+.features-list {
+  display: flex;
+  gap: 24px;
+}
+
+.feature-item {
+  width: calc((100% - 72px) / 4);
+}
+
+.feature-title {
+  margin-bottom: 8px;
+  max-width: 264px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.feature-text {
+  max-width: 264px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
