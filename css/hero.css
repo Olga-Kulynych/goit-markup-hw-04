@@ -51,9 +51,9 @@
   cursor: pointer;
 
   transition:
-    background-color 300ms ease-in-out,
-    color 300ms ease-in-out,
-    box-shadow 300ms ease-in-out;
+    background-color 250ms ease-in-out,
+    color 250ms ease-in-out,
+    box-shadow 250ms ease-in-out;
 }
 .hero-button:hover,
 .hero-button:focus {
